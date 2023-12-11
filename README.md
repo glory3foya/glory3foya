@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glory3foya
 - 👀 I’m interested in industrial automation programming
-- 🌱 I’m currently learning mobile application
+- 🌱 I’m currently developing mobile application
 - 💞️ I’m looking to collaborate on projects regarding robotics and artificial intelligence
 - 📫 You can reach me through glory.foya143@gmail.com
 
